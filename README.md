@@ -38,3 +38,11 @@ El proyecto está pensado como ejemplo didáctico para practicar:
 - Herencia y composición entre clases.
 - Gestión de listas de objetos (catálogo, carrito, pedidos, usuarios).
 - Simulación de la lógica básica de una tienda online en consola.
+
+## Docker
+
+- Dockerfile
+- requirements.txt  
+- README.md
+- Command para construir la imagen: docker build . -t tiendaonline
+- Command para correr el contenedor: docker run -t tiendaonline
